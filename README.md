@@ -1,5 +1,3 @@
-# AWS
-Mission Solution Architect
 Day 1 - 17/01/2022
 Mrng 15th Day video VPC introduction
 Evng 
