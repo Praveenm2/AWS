@@ -1,4 +1,5 @@
 Day 1 - 17/01/2022 Mrng 15th Day video VPC introduction <br>
+<hr>
 Day 2- 18/01 VPC created <br>
 Day 3 -19/01 VPC created , Created 2 subnets , Websn to public , create internet gateway add it to subnet through rout table ,created EC2 instance with this vpc & Websn subnet.<br>
 Day 4 - 20/01 created bastion server communicated with private subnet through MySQL port <br>
