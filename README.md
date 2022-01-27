@@ -7,5 +7,5 @@ Day 5 - 21/01 did the same day3 & 4 <br>
 Day 6 -22/01 ------------- <br>
 Day 7 -23/01 - Nat gateway which helps in connecting with private subnet through Route table <br>
 Day 8 -24/01 - DNS intro & Route 53 5 Policies
-<B><Hr>
+<Hr>
 Day 9- 27/01 - hands-on of Route 53 policies
