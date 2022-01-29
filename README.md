@@ -10,3 +10,4 @@ Day 8 -24/01 - DNS intro & Route 53 5 Policies
 <Hr>
 Day 9- 27/01 - hands-on of Route 53 policies
 Day 10-28/01 - DNS and the backup features
+Day 11-29/01 - Cloud Trial which is an audit service by which we can see whatever the operation performed 
