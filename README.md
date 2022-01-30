@@ -8,6 +8,7 @@ Day 6 -22/01 ------------- <br>
 Day 7 -23/01 - Nat gateway which helps in connecting with private subnet through Route table <br>
 Day 8 -24/01 - DNS intro & Route 53 5 Policies
 <Hr>
-Day 9- 27/01 - hands-on of Route 53 policies
-Day 10-28/01 - DNS and the backup features
-Day 11-29/01 - Cloud Trial which is an audit service by which we can see whatever the operation performed 
+Day 9- 27/01 - hands-on of Route 53 policies<br>
+Day 10-28/01 - DNS and the backup features<br>
+Day 11-29/01 - Cloud Trial which is an audit service by which we can see whatever the operation performed <br>
+Day 12-30/01 - SQS
