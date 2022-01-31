@@ -12,3 +12,4 @@ Day 9- 27/01 - hands-on of Route 53 policies<br>
 Day 10-28/01 - DNS and the backup features<br>
 Day 11-29/01 - Cloud Trial which is an audit service by which we can see whatever the operation performed <br>
 Day 12-30/01 - SQS
+Day 13-31/01 - Snowball, EBS ,cloud watch
